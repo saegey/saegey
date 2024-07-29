@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**saegey/saegey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm [Adam Saegebarth](https://github.com/saegey), a software engineer and open-source enthusiast.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Projects**: I work on various open-source projects, including [StoreWatcher](https://github.com/saegey/storewatcher) and more.
+- **Technologies**: I specialize in Javascript, Python, Ruby, Docker, AWS and DevOps.
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/saegey)
+- [Twitter](https://twitter.com/saegey)
+- [Email](mailto:adam.saegebarth@gmail.com)
+
+Thanks for visiting!
