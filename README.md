@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello! I'm [Adam Saegebarth](https://github.com/saegey), a software engineer and open-source enthusiast.
+Hello! I'm [Adam Saegebarth](https://saegey.com), a software engineer and open-source enthusiast.
 
 ## What I Do
 
