@@ -4,7 +4,7 @@ Hello! I'm [Adam Saegebarth](https://saegey.com), a software engineer and open-s
 
 ## What I Do
 
-- **Projects**: I work on various open-source projects, including [StoreWatcher](https://github.com/saegey/storewatcher) and more.
+- **Projects**: I work on various open-source projects.
 - **Technologies**: I specialize in Javascript, Python, Ruby, Go
 
 ## Get in Touch
