@@ -10,7 +10,6 @@ Hello! I'm [Adam Saegebarth](https://saegey.com), a software engineer and open-s
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/saegey)
-- [Twitter](https://twitter.com/saegey)
 - [Email](mailto:adam.saegebarth@gmail.com)
 
 Thanks for visiting!
