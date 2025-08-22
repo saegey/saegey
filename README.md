@@ -14,7 +14,7 @@ Outside of client and consulting work, I build projects at the intersection of *
 ---
 
 ## 🚀 Featured Projects
-- 🎧 **[Vinyl Playlist Maker](https://github.com/saegey/)** – AI + algorithms for smarter vinyl DJ setlists  
+- 🎧 **[Vinyl Playlist Maker](https://github.com/saegey/dj-playlist)** – AI + algorithms for smarter vinyl DJ setlists  
 - 📱 **Parenting App** – led development with Expo/React Native, Stream Chat, Rails API on Heroku  
 - 📊 **Endurance Data Stories** – cycling/running analytics + storytelling blog (Gatsby + charts)  
 - 📻 **[Public Vinyl Radio](https://publicvinylradio.com/)** – all-vinyl DJ sets + YouTube channel  
