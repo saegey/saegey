@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Adam Saegebarth
+# 👋 Hi, I’m Adam Saegebarth
 
 I’m a **Senior Software Engineer** with decades of experience building products for startups and established companies in Seattle and Miami. My work spans **full-stack web & mobile development, backend systems, data engineering, and DevOps** — always with a focus on creative technical solutions and collaborative impact.  
 
@@ -16,8 +16,8 @@ Outside of client and consulting work, I build projects at the intersection of *
 ## 🚀 Featured Projects
 - 🎧 **[Vinyl Playlist Maker](https://github.com/saegey/dj-playlist)** – AI + algorithms for smarter vinyl DJ setlists  
 - 📱 **Parenting App** – led development with Expo/React Native, Stream Chat, Rails API on Heroku  
-- 📊 **Endurance Data Stories** – cycling/running analytics + storytelling blog (Gatsby + charts)  
-- 📻 **[Public Vinyl Radio](https://publicvinylradio.com/)** – all-vinyl DJ sets + YouTube channel  
+- 📊 **[Endurance Data Stories](https://github.com/saegey/personal-blog)** – cycling/running analytics + storytelling blog (Gatsby + charts)  
+- 📻 **[Public Vinyl Radio](https://github.com/saegey/pvr-site)** – all-vinyl DJ sets + YouTube channel  
 
 ---
 
