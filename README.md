@@ -1,39 +1,33 @@
-# 👋 Hi, I’m Adam Saegebarth
+Hi, I’m Adam Saegebarth 👋
 
-I’m a **Senior Software Engineer** with decades of experience building products for startups and established companies in Seattle and Miami. My work spans **full-stack web & mobile development, backend systems, data engineering, and DevOps** — always with a focus on creative technical solutions and collaborative impact.  
+I’m a software engineer in Seattle who enjoys building software at the intersection of data, music, hardware, and the web.
 
-Outside of client and consulting work, I build projects at the intersection of **code, data, music, and endurance sports**.  
+Most of my work revolves around turning ideas into polished tools—from search systems and recommendation engines to home automation, embedded devices, and creative software. I enjoy working across the entire stack, whether that’s designing APIs, optimizing databases, building user interfaces, or wiring up an ESP32.
 
----
+What I’m Working On
 
-## 🛠️ What I Build
-- **Product Engineering** – React / React Native (Expo), Rails, Go, Node.js  
-- **Systems & Data** – Postgres, DynamoDB, Meilisearch, AWS, CI/CD, DevOps  
-- **Creative Tech** – playlist optimizers, semantic search, music + data experiments  
+* 🎧 Vinyl Playlist Maker — semantic search, recommendation algorithms, and playlist optimization for vinyl DJs
+* 📻 Public Vinyl Radio — an all-vinyl music project exploring analog culture through recorded DJ sets, software, and storytelling
+* 🏠 Home Lab — Home Assistant, ESPHome, Frigate, Docker, networking, and self-hosted infrastructure
+* 🚴 Data Projects — using code and visualization to explore cycling, running, and performance data
 
----
+Things I Enjoy Building
 
-## 🚀 Featured Projects
-- 🎧 **[Vinyl Playlist Maker](https://github.com/saegey/dj-playlist)** – AI + algorithms for smarter vinyl DJ setlists  
-- 📱 **Parenting App** – led development with Expo/React Native, Stream Chat, Rails API on Heroku  
-- 📊 **[Endurance Data Stories](https://github.com/saegey/personal-blog)** – cycling/running analytics + storytelling blog (Gatsby + charts)  
-- 📻 **[Public Vinyl Radio](https://github.com/saegey/pvr-site)** – all-vinyl DJ sets + YouTube channel  
+* Search & recommendation systems
+* Data engineering and visualization
+* Full-stack web applications
+* Home automation & embedded hardware
+* Developer tooling & automation
+* Music technology
 
----
+Current Interests
 
-## 🌱 Current Focus
-- Refining **genetic algorithms** for playlist optimization  
-- Experimenting with **semantic + vector search** for music discovery  
-- Growing **Public Vinyl Radio** into a platform for analog + global sounds  
+* Genetic algorithms
+* Vector embeddings & semantic search
+* Audio analysis
+* Self-hosting
+* Open source software
 
----
+⸻
 
-## 🤝 Let’s Connect
-- [🌐 Website](https://saegey.com)  
-- [💼 LinkedIn](https://www.linkedin.com/in/saegey)  
-- [📧 Email](mailto:adam.saegebarth@gmail.com)  
-- [📻 Public Vinyl Radio](https://publicvinylradio.com)  
-
----
-
-Thanks for stopping by — here you’ll find a mix of **engineering projects, creative experiments, and analog-digital fusions.**
+When I’m away from the keyboard you’ll probably find me riding bikes, digging through record bins, DJing, or building something that started as “just a small weekend project.”
