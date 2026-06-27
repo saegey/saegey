@@ -22,7 +22,6 @@ Things I Enjoy Building
 
 Current Interests
 
-* Genetic algorithms
 * Vector embeddings & semantic search
 * Audio analysis
 * Self-hosting
