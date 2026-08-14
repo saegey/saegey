@@ -6,7 +6,7 @@ Most of my work revolves around turning ideas into polished tools—from search 
 
 What I’m Working On
 
-* 🎧 Vinyl Playlist Maker — semantic search, recommendation algorithms, and playlist optimization for vinyl DJs
+* 🎧 GrooveNET — semantic search, recommendation algorithms, and playlist optimization for vinyl DJs
 * 📻 Public Vinyl Radio — an all-vinyl music project exploring analog culture through recorded DJ sets, software, and storytelling
 * 🏠 Home Lab — Home Assistant, ESPHome, Frigate, Docker, networking, and self-hosted infrastructure
 * 🚴 Data Projects — using code and visualization to explore cycling, running, and performance data
